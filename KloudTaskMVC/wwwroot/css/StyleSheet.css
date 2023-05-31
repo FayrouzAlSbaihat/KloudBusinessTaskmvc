@@ -1,0 +1,91 @@
+﻿.stylebtn {
+    text-align: center;
+    width: 100%;
+    background-color: #5900b3 !important;
+    color: white !important;
+    font-weight: bold !important;
+    height: 50px;
+    margin-top: 27px;
+    border-radius: 8px;
+}
+
+#OfferButtonApend input {
+    background-color: #5900b3 !important;
+    color: white;
+    border-radius: 8px !important;
+    width: 110px;
+    height: 45px;
+    margin-top: 35px;
+}
+
+
+#OfferButtonApend{
+    display: flex;
+    justify-content: center;
+    color: white;
+    border-radius: 8px;
+}
+
+#TimeButtonApend {
+    display: flex;
+    justify-content: center;
+    color: white;
+    gap: 5%;
+    margin-top: 20px;
+}
+
+#TimeButtonApend input {
+    background-color: #5900b3 !important;
+    color: white;
+    border-radius: 8px !important;
+    width: 120px;
+    height: 45px;
+    margin-top: 35px;
+}
+
+.divcontainsubbtn {
+    display: flex;
+    justify-content: center;
+}
+
+.DivHidden {
+    display: none;
+}
+.card {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.card label {
+        text-align: left;
+}
+
+label {
+    text-align: left;
+    margin-right: 220px;
+}
+
+.card-title {
+    font-size: 3rem;
+    height: 50px;
+    font-family: 'Oswald', Helvetica,Arial,sans-serif !important;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    margin-top: 3%;
+}
+
+.form-group {
+    margin-bottom: 7%;
+    margin-top: 2%;
+}
+
+#Sendbtn {
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+    background-color: #5900b3 !important;
+    color: white !important;
+    font-weight: bold !important;
+}
